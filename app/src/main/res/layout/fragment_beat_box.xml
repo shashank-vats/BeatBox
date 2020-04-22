@@ -34,7 +34,8 @@
                 android:text="@string/playback_speed"
                 android:paddingHorizontal="12dp"
                 android:paddingVertical="4dp"
-                android:id="@+id/seekBarLabel"/>
+                android:id="@+id/seekBarLabel"
+                android:textStyle="bold"/>
 
             <SeekBar
                 android:layout_width="match_parent"
